@@ -1,0 +1,9 @@
+﻿  test.c
+C:\test\test.c\seqlist\seqlist\head.h(20,9): warning C4013: “free”未定义；假设外部返回 int
+C:\test\test.c\seqlist\seqlist\head.h(43,39): warning C4013: “realloc”未定义；假设外部返回 int
+C:\test\test.c\seqlist\seqlist\head.h(43,87): warning C4312: “类型强制转换”: 从“int”转换到更大的“SLDataType *”
+C:\test\test.c\seqlist\seqlist\head.h(44,16): warning C4047: “==”:“SLDataType”与“void *”的间接级别不同
+C:\test\test.c\seqlist\seqlist\head.h(47,12): warning C4013: “exit”未定义；假设外部返回 int
+C:\test\test.c\seqlist\seqlist\head.h(50,14): warning C4047: “=”:“SLDataType *”与“SLDataType”的间接级别不同
+C:\test\test.c\seqlist\seqlist\head.h(43,20): warning C4047: “初始化”:“SLDataType”与“SLDataType *”的间接级别不同
+  seqlist.vcxproj -> C:\test\test.c\seqlist\x64\Debug\seqlist.exe

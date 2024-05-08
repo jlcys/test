@@ -1,3 +1,0 @@
-﻿  sq.c
-C:\test\test.c\electric\electric\sq.c(43,13): warning C4013: “strcmp”未定义；假设外部返回 int
-  electric.vcxproj -> C:\test\test.c\electric\Debug\electric.exe

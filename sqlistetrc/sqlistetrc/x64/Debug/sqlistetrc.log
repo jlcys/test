@@ -1,3 +1,0 @@
-﻿  sq.c
-C:\test\test.c\sqlistetrc\sqlistetrc\sq.c(80,1): warning C4715: “FindContact”: 不是所有的控件路径都返回值
-  sqlistetrc.vcxproj -> C:\test\test.c\sqlistetrc\x64\Debug\sqlistetrc.exe

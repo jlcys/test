@@ -1,5 +1,0 @@
-﻿  contract.c
-C:\test\test.c\contractsqlist\contractsqlist\contract.c(66,7): warning C4013: “strcmp”未定义；假设外部返回 int
-  test.c
-  正在生成代码...
-  contractsqlist.vcxproj -> C:\test\test.c\contractsqlist\x64\Debug\contractsqlist.exe
