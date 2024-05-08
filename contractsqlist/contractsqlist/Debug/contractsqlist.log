@@ -1,0 +1,3 @@
+﻿  contract.c
+C:\test\test.c\contractsqlist\contractsqlist\contract.c(83,1): warning C4715: “FindContact”: 不是所有的控件路径都返回值
+  contractsqlist.vcxproj -> C:\test\test.c\contractsqlist\Debug\contractsqlist.exe
