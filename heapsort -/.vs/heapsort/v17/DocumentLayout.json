@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\test\\test.c\\heapsort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52CD30CE-FCC5-4F43-B24A-7A1F2C1A39D1}|heapsort\\heapsort.vcxproj|C:\\test\\test.c\\heapsort\\heapsort\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52CD30CE-FCC5-4F43-B24A-7A1F2C1A39D1}|heapsort\\heapsort.vcxproj|solutionrelative:heapsort\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CD30CE-FCC5-4F43-B24A-7A1F2C1A39D1}|heapsort\\heapsort.vcxproj|C:\\test\\test.c\\heapsort\\heapsort\\heapsort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52CD30CE-FCC5-4F43-B24A-7A1F2C1A39D1}|heapsort\\heapsort.vcxproj|solutionrelative:heapsort\\heapsort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CD30CE-FCC5-4F43-B24A-7A1F2C1A39D1}|heapsort\\heapsort.vcxproj|C:\\test\\test.c\\heapsort\\heapsort\\heapsort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52CD30CE-FCC5-4F43-B24A-7A1F2C1A39D1}|heapsort\\heapsort.vcxproj|solutionrelative:heapsort\\heapsort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CD30CE-FCC5-4F43-B24A-7A1F2C1A39D1}|heapsort\\heapsort.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAACIEAAAAAAAAAAAxwCsEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T09:13:44.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "heapsort.c",
+              "DocumentMoniker": "C:\\test\\test.c\\heapsort\\heapsort\\heapsort.c",
+              "RelativeDocumentMoniker": "heapsort\\heapsort.c",
+              "ToolTip": "C:\\test\\test.c\\heapsort\\heapsort\\heapsort.c",
+              "RelativeToolTip": "heapsort\\heapsort.c",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-22T05:05:23.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "heapsort.h",
+              "DocumentMoniker": "C:\\test\\test.c\\heapsort\\heapsort\\heapsort.h",
+              "RelativeDocumentMoniker": "heapsort\\heapsort.h",
+              "ToolTip": "C:\\test\\test.c\\heapsort\\heapsort\\heapsort.h",
+              "RelativeToolTip": "heapsort\\heapsort.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T04:59:16.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\test\\test.c\\heapsort\\heapsort\\test.c",
+              "RelativeDocumentMoniker": "heapsort\\test.c",
+              "ToolTip": "C:\\test\\test.c\\heapsort\\heapsort\\test.c",
+              "RelativeToolTip": "heapsort\\test.c",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-22T04:58:14.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

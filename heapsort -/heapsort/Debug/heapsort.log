@@ -1,0 +1,6 @@
+﻿  heapsort.c
+  test.c
+C:\test\test.c\heapsort\heapsort\test.c(22,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\test\test.c\heapsort\heapsort\test.c(31,23): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“C:\test\test.c\heapsort\Debug\heapsort.exe”

@@ -1,0 +1,5 @@
+﻿  heapsort.c
+  test.c
+C:\test\test.c\heapsort\heapsort\test.c(22,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  heapsort.vcxproj -> C:\test\test.c\heapsort\x64\Debug\heapsort.exe
